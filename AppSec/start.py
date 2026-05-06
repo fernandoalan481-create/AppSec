@@ -70,7 +70,7 @@ def print_banner():
 ██  ██ ██     ██     █████▀ ██▄▄▄▄ ▀█████ 
                                           
 {RESET}
-{WHITE} AppSec Toolkit — Offensive Security Suite │ by https://github.com/fernandoalan481-create{RESET}
+{WHITE} AppSec Toolkit — Offensive Security Suite (v1.0.5) │ by https://github.com/fernandoalan481-create{RESET}
 {DIM}           Uso educacional • Apenas ambientes autorizados{RESET}
 """)
 
